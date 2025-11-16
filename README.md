@@ -4,7 +4,7 @@
 ## Descripción del Proyecto
 ShopMaster es una tienda virtual moderna y responsiva desarrollada como un proyecto educativo utilizando HTML, CSS, JavaScript, Bootstrap y Font Awesome. Este proyecto consume la API pública [https://fakestoreapi.com/products](https://fakestoreapi.com/products) para mostrar productos en tarjetas con imágenes, títulos, descripciones y precios. Incluye un carrito de compras, un modal para detalles de productos, una pasarela de pago simulada y la generación de un ticket en PDF estilo térmico. El objetivo es simular una compra completa y demostrar el uso de tecnologías web básicas con apoyo de IA.
 
-![Interfaz de ShopMaster](https://via.placeholder.com/800x400.png?text=ShopMaster+Store+Interface)  
+![Interfaz de ShopMaster](https://www.bing.com/images/search?view=detailV2&ccid=HiQ7F0fk&id=2E27650863636DF1265A01D8E17881154B343BCB&thid=OIP.HiQ7F0fkIhjwIvvvUHrBjQHaFC&mediaurl=https%3a%2f%2fwww.hostingplus.pe%2fwp-content%2fuploads%2f2023%2f09%2fque-productos-vender-en-una-tienda-virtual-o-comercio-electronico.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1e243b1747e42218f022fbef507ac18d%3frik%3dyzs0SxWBeOHYAQ%26pid%3dImgRaw%26r%3d0&exph=510&expw=750&q=Tienda+Online&FORM=IRPRST&ck=E20F38343DCF6012D2DBCCF106BE1BCE&selectedIndex=0&itb=0)  
 *Interfaz de la tienda virtual ShopMaster con tarjetas de productos y carrito.*
 
 ## Características
